@@ -1,12 +1,13 @@
 {
     "name": "wahdam/php",
-    "description": "kumpulan class",
+    "description": "kumpulan class helper",
     "authors": [
         {
             "name": "wahdam",
             "email": "wahdam.amarulloh@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
